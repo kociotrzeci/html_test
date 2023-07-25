@@ -1,2 +1,2 @@
 # html_test
-HTML tests
+Learnig basics of HTML
