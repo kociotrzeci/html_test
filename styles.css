@@ -1,0 +1,71 @@
+* {
+    border: 1px solid black;
+}
+
+body {
+    background-color: black;
+    border: 1px solid gray;
+    padding: 10px;
+    max-width: 600px;
+    min-width: 400px;
+    margin: auto;
+}
+
+div {
+    border: 5px solid gray;
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 20px;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(216, 216, 216);
+    text-align: center;
+}
+
+h5,
+h4 {
+    font-size: 20px;
+    margin: 20px;
+}
+
+h5 {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+}
+
+ul {
+    margin-right: px;
+}
+
+p,
+li,
+h4,
+h5 {
+    color: ivory
+}
+
+p {
+    margin-left: 10px;
+}
